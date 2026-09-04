@@ -1,0 +1,9 @@
+{
+  "roc_auc": 0.5875,
+  "pr_auc": 0.171,
+  "excursion_threshold_pct": 5,
+  "excursion_threshold_value": -0.0,
+  "total_test_fails": 21,
+  "fails_flagged_as_excursions": 3,
+  "total_excursion_flags": 13
+}
