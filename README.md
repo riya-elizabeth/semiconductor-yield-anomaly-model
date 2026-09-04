@@ -155,6 +155,14 @@ curl "http://localhost:8000/top-risk-signals?top_n=15"
 
 Interactive docs available at: `http://localhost:8000/docs`
 
+### Live deployment (Cloud Run)
+
+The API is deployed and publicly accessible:
+
+- **Swagger UI:** https://secom-api-170732699413.us-central1.run.app/docs
+- **Health check:** https://secom-api-170732699413.us-central1.run.app/health
+- **Top risk signals:** https://secom-api-170732699413.us-central1.run.app/top-risk-signals
+
 ---
 
 ## Limitations & Next Steps
