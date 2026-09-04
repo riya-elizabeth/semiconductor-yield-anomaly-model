@@ -1,3 +1,8 @@
+# Internal study/planning docs
+CODE_WALKTHROUGH.md
+INTERVIEW_PREP.md
+prompt.md
+
 .venv/
 __pycache__/
 *.pyc
