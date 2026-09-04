@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/secom_raw/
+*.joblib
+*.pkl
+*.png
+.ipynb_checkpoints/
