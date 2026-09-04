@@ -1,0 +1,20 @@
+[
+  {
+    "model": "RandomForest",
+    "threshold": 0.2316,
+    "precision_fail": 0.3077,
+    "recall_fail": 0.381,
+    "f1_fail": 0.3404,
+    "roc_auc": 0.7553,
+    "pr_auc": 0.2016
+  },
+  {
+    "model": "LightGBM",
+    "threshold": 0.01,
+    "precision_fail": 0.2,
+    "recall_fail": 0.0476,
+    "f1_fail": 0.0769,
+    "roc_auc": 0.7283,
+    "pr_auc": 0.1681
+  }
+]
