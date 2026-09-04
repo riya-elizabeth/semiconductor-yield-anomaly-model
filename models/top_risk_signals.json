@@ -1,0 +1,102 @@
+[
+  {
+    "rank": 1,
+    "feature": "Attribute 104",
+    "mean_abs_shap": 0.017613
+  },
+  {
+    "rank": 2,
+    "feature": "Attribute 60",
+    "mean_abs_shap": 0.013015
+  },
+  {
+    "rank": 3,
+    "feature": "Attribute 32",
+    "mean_abs_shap": 0.009293
+  },
+  {
+    "rank": 4,
+    "feature": "Attribute 34",
+    "mean_abs_shap": 0.009021
+  },
+  {
+    "rank": 5,
+    "feature": "Attribute 206",
+    "mean_abs_shap": 0.009
+  },
+  {
+    "rank": 6,
+    "feature": "Attribute 214",
+    "mean_abs_shap": 0.007972
+  },
+  {
+    "rank": 7,
+    "feature": "Attribute 131",
+    "mean_abs_shap": 0.006834
+  },
+  {
+    "rank": 8,
+    "feature": "Attribute 66",
+    "mean_abs_shap": 0.006242
+  },
+  {
+    "rank": 9,
+    "feature": "Attribute 511",
+    "mean_abs_shap": 0.006176
+  },
+  {
+    "rank": 10,
+    "feature": "Attribute 65",
+    "mean_abs_shap": 0.006155
+  },
+  {
+    "rank": 11,
+    "feature": "Attribute 478",
+    "mean_abs_shap": 0.005483
+  },
+  {
+    "rank": 12,
+    "feature": "Attribute 22",
+    "mean_abs_shap": 0.00527
+  },
+  {
+    "rank": 13,
+    "feature": "Attribute 352",
+    "mean_abs_shap": 0.005204
+  },
+  {
+    "rank": 14,
+    "feature": "Attribute 342",
+    "mean_abs_shap": 0.005097
+  },
+  {
+    "rank": 15,
+    "feature": "Attribute 126",
+    "mean_abs_shap": 0.00414
+  },
+  {
+    "rank": 16,
+    "feature": "Attribute 82",
+    "mean_abs_shap": 0.004098
+  },
+  {
+    "rank": 17,
+    "feature": "Attribute 130",
+    "mean_abs_shap": 0.004075
+  },
+  {
+    "rank": 18,
+    "feature": "Attribute 320",
+    "mean_abs_shap": 0.003885
+  },
+  {
+    "rank": 19,
+    "feature": "Attribute 424",
+    "mean_abs_shap": 0.003821
+  },
+  {
+    "rank": 20,
+    "feature": "Attribute 489",
+    "mean_abs_shap": 0.003542
+  }
+]
